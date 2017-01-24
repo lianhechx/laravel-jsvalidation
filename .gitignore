@@ -1,0 +1,12 @@
+# IDE
+build/
+
+# composer
+vendor
+composer.lock
+
+#node
+node_modules
+
+#bower
+bower_components

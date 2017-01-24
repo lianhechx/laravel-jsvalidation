@@ -1,0 +1,2 @@
+Laravel Javascript Validation Package.
+
